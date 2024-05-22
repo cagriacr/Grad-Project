@@ -5,13 +5,13 @@
       | \____/| |___| |/ /___| \_____| |___| |   \ V /|  /__| | | |                                                  
        \_____/ \_____/(_______)______)\______|    \_/  \_____(_)|_|                                                  
                                                                                                                
-                                     ______            _          ______            ______      _          _ _ 
-                                    |  ___ \          | |        (____  \          / _____)    | |        | (_)
-                                    | | _ | | ____  _ | | ____    ____)  )_   _   | /      ____| |  _ ____| |_ 
-    ▄︻̷̿┻̿═━-                          | || || |/ _  |/ || |/ _  )  |  __  (| | | |  | |     / _  | | / ) _  | | | 
-                                    | || || ( ( | ( (_| ( (/ /   | |__)  ) |_| |  | \____( ( | | |< ( ( | | | |   ▄︻̷̿┻̿═━一 
-                                    |_||_||_|\_||_|\____|\____)  |______/ \__  |   \______)_||_|_| \_)_||_|_|_|
-                                                                         (____/                                
+                            ______            _          ______            ______      _          _ _ 
+                           |  ___ \          | |        (____  \          / _____)    | |        | (_)
+                           | | _ | | ____  _ | | ____    ____)  )_   _   | /      ____| |  _ ____| |_ 
+    ▄︻̷̿┻̿═━-                 | || || |/ _  |/ || |/ _  )  |  __  (| | | |  | |     / _  | | / ) _  | | | 
+                           | || || ( ( | ( (_| ( (/ /   | |__)  ) |_| |  | \____( ( | | |< ( ( | | | |   ▄︻̷̿┻̿═━一 
+                           |_||_||_|\_||_|\____|\____)  |______/ \__  |   \______)_||_|_| \_)_||_|_|_|
+                                                                (____/                                
 
 
 The Gözcü project is focused on developing a comprehensive network discovery tool aimed at facilitating the identification of connected devices and open ports within a specified IP range. This tool streamlines the meticulous examination of network security by employing ARP scanning for device discovery and port scanning techniques to accurately identify open ports on the discovered devices.
